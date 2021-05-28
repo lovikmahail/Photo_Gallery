@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+#mycarousel {
+    background-color: cyan;
+}
+
+#mycarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
